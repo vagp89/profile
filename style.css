@@ -74,10 +74,12 @@ li:hover{
   margin: 20px 0px;
   text-align: center;
   background-color: #e8e9ed;
+  width: 600px;
   }
 
 .container {
   margin: 40px auto;
+  width: 600px;
 }
 
 .img-circle {
